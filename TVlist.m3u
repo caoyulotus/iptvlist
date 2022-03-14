@@ -1,52 +1,53 @@
-#EXTINF:-1,CCTV-1综合
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",#EXTINF-1CCTV-1综合
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1,CCTV-2财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",#EXTINF-1CCTV-2财经
 http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1,CCTV-3综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",#EXTINF-1CCTV-3综艺
 http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
-#EXTINF:-1,CCTV-4中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",#EXTINF-1CCTV-4中文国际
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1,CCTV-5体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",#EXTINF-1CCTV-5体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1,CCTV-5+体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",#EXTINF-1CCTV-5+体育赛事
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
-#EXTINF:-1,CCTV-6电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",#EXTINF-1CCTV-6电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225650/index.m3u8
-#EXTINF:-1,CCTV-7国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",#EXTINF-1CCTV-7国防军事
 http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
-#EXTINF:-1,CCTV-8电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",#EXTINF-1CCTV-8电视剧
 http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1,CCTV-9纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",#EXTINF-1CCTV-9纪录
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-#EXTINF:-1,CCTV-10科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",#EXTINF-1CCTV-10科教
 http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-#EXTINF:-1,CCTV-11戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",#EXTINF-1CCTV-11戏曲
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1,CCTV-12社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",#EXTINF-1CCTV-12社会与法
 http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
-#EXTINF:-1,CCTV-13新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",#EXTINF-1CCTV-13新闻
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1,CCTV-14少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",#EXTINF-1CCTV-14少儿
 http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1,CCTV-15音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",#EXTINF-1CCTV-15音乐
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1,CCTV-17农村农业
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",#EXTINF-1CCTV-17农村农业
 http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1,CCTV世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",#EXTINF-1CCTV世界地理
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
-#EXTINF:-1,中数CCTV央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",#EXTINF-1中数CCTV央视台球
 http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
-#EXTINF:-1,CCTV央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",#EXTINF-1CCTV央视文化精品
 http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
-#EXTINF:-1,CCTV怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",#EXTINF-1CCTV怀旧剧场
 http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
-#EXTINF:-1,CCTV新科动漫
+#EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="地方",#EXTINF-1CCTV新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1,CCTV第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",#EXTINF-1CCTV第一剧场
 http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
-#EXTINF:-1,CCTV风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",#EXTINF-1CCTV风云剧场
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
-#EXTINF:-1,CCTV风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",#EXTINF-1CCTV风云足球
 http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
-#EXTINF:-1,CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",#EXTINF-1CCTV高尔夫网球
 http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
